@@ -2,3 +2,5 @@ ini adalah sebuah kalimat pertama
 kalimat ini sekarang adalah kalimat kedua
 disini kita sudah memasuki kalimat ketiga
 dan sekarang kita sudah berada di kalimat keempat
+pada saat ini kita mulai mencoba untuk mengedit pada kalimat kelima
+dan juga kita lakukan bersama di kalimat keenam
