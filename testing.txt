@@ -1,6 +1,8 @@
-ini adalah sebuah kalimat pertama
-kalimat ini sekarang adalah kalimat kedua
-disini kita sudah memasuki kalimat ketiga
-dan sekarang kita sudah berada di kalimat keempat
-pada saat ini kita mulai mencoba untuk mengedit pada kalimat kelima
-dan juga kita lakukan bersama di kalimat keenam
+ini adalah sebuah baris pertama
+kalimat ini sekarang adalah baris kedua
+disini kita sudah memasuki baris ketiga
+dan sekarang kita sudah berada di baris keempat
+dan juga kita lakukan bersama di baris keenam
+untuk commit ketiga ini saya mencoba untuk menambahkan di baris ke tujuh
+dan saya akan mencoba untuk mengapus salah satu baris
+kalimat pada teks ini saya ubah menjadi baris
